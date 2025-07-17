@@ -3,7 +3,7 @@
 **`Aspiring UI/UX Designer and Full Stack Developer`**
 
 ## 🦡 About Me
-- 📝 I love crafting clean interfaces and building real-world apps with meaningful user experiences.
+- 📝 I love creating clean interfaces and building real-world apps with meaningful user experiences.
 - 🏫 Currently a 4th year BSIT student.
 - 🎮 Away from the keyboard, I like to draw, sleep, playing games, listening to music and watching movies.
 
