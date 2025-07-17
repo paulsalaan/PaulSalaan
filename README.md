@@ -13,6 +13,10 @@
 - Practicing web development using React.
 - Growing my skills in UI/UX design and using javascript.
 
+## 🗣️ Let's Interact 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nine.e_____/?igsh=cHhraTVjdXBqM2o1#)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nienvirone/)
+
 ## 💻  Tech Stacks
 ### Frontend
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
