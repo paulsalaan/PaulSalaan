@@ -9,7 +9,7 @@
 
 ## 🔨 What I'm Working On
 - Learning how databases are structured and organized.
-- Integrating APIs, especially RESTful APIs.  
+- Learning about APIs and how to use them.  
 - Practicing web development using React.
 - Growing my skills in UI/UX design and using javascript.
 
