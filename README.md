@@ -5,7 +5,7 @@
 ## 🦡 About Me
 - 📝 I love creating clean interfaces and building real-world apps with meaningful user experiences.
 - 🏫 Currently a 4th year BSIT student.
-- 🎮 Away from the keyboard, I like to draw, sleep, playing games, listening to music and watching movies.
+- 🎮 Away from the keyboard, I like to sleep, playing games, listening to music and watching movies.
 
 ## 🔨 What I'm Working On
 - Learning how databases are structured and organized.
