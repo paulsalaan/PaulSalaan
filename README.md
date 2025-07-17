@@ -8,7 +8,7 @@
 - 🎮 Away from the keyboard, I like to draw, sleep, playing games, listening to music and watching movies.
 
 ## 🔨 What I'm Working On
-- Learning about database structures. 
+- Learning how databases are structured and organized.
 - Integrating APIs, especially RESTful APIs.  
 - Practicing web development using React.
 - Growing my skills in UI/UX design and using javascript.
