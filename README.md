@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm <a href="https://paulsalaan.github.io/nportfolio/" target="_blank">Paul Niño Salaan</a>
+# 👋 Hi there, I'm <a href="https://paulsalaan.github.io/portfolio/" target="_blank">Paul Niño Salaan</a>
 
 **`Aspiring UI/UX Designer and Full Stack Developer`**
 
