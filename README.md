@@ -5,7 +5,7 @@
 **`Aspiring UI/UX Designer`**
 
 ## 🦡 About Me
-- 📝 I love creating clean interfaces and building real-world apps with meaningful user experiences.
+- 📝 I love creating clean interfaces and building real-world projects with meaningful user experiences.
 - 🏫 Currently a 4th year BSIT student.
 - 🎮 Away from the keyboard, I like to sleep, playing games, listening to music and watching movies.
 
