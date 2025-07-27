@@ -1,3 +1,5 @@
+<img src="https://i.pinimg.com/originals/d8/48/d4/d848d49cd9c1628807169efcc48f5751.gif" width="1000" height="500" />
+
 # 👋 Hi there, I'm <a href="https://paulsalaan.github.io/portfolio/" target="_blank">Paul Niño Salaan</a>
 
 **`Aspiring UI/UX Designer`**
