@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm <a href="https://paulsalaan.github.io/portfolio/" target="_blank">Paul Niño Salaan</a>
 
-**`Aspiring UI/UX Designer and Full Stack Developer`**
+**`Aspiring UI/UX Designer`**
 
 ## 🦡 About Me
 - 📝 I love creating clean interfaces and building real-world apps with meaningful user experiences.
