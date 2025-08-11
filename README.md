@@ -13,7 +13,6 @@
 - Learning how databases are structured and organized.
 - Learning about APIs and how to use them.  
 - Practicing web development using React and a little bit of backend.
-- Growing my skills in UI/UX design and using javascript.
 - Exploring more about the aspects and principles of UI/UX interface designing.
 
 ## 🗣️ Let's Chat
