@@ -14,6 +14,7 @@
 - Learning about APIs and how to use them.  
 - Practicing web development using React and a little bit of backend.
 - Growing my skills in UI/UX design and using javascript.
+- Exploring more about the aspects and principles of UI/UX interface designing.
 
 ## 🗣️ Let's Chat
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nine.e_____/?igsh=cHhraTVjdXBqM2o1#)
