@@ -1,6 +1,6 @@
 <img src="https://i.gifer.com/ATEd.gif" width="1000" height="500" />
 
-# 👋 Hi there, I'm <a href="https://paulsalaan.github.io/portfolio/" target="_blank">Paul Salaan</a>
+# 👋 Hi there, I'm <a href="https://madebypaul.vercel.app" target="_blank">Paul Salaan</a>
 
 **`Aspiring UI/UX Designer`**
 
