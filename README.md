@@ -1,6 +1,7 @@
 <img src="https://i.gifer.com/ATEd.gif" width="1000" height="500" />
 
-# 👋 Hi there, I'm <a href="https://madebypaul.vercel.app" target="_blank">Paul Salaan</a>
+# 👋 Hi there, I'm <a href="https://madebypaul.vercel.app" target="_blank">Paul Salaan</a> <img src="https://komarev.com/ghpvc/?username=paul-salaan&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />
+
 
 **`Aspiring UI/UX Designer`**
 
