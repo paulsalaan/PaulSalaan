@@ -1,4 +1,4 @@
-<img src="https://i.gifer.com/ATEd.gif" width="1000" height="500" />
+<img src="https://www.pinterest.com/pin/296041375517589557" width="1000" height="500" />
 
 # 👋 Hi there, I'm <a href="https://madebypaul.vercel.app" target="_blank">Paul Salaan</a> <img src="https://komarev.com/ghpvc/?username=paul-salaan&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />
 
