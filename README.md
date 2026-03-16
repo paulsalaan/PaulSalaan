@@ -1,4 +1,4 @@
-<img src="https://www.pinterest.com/pin/296041375517589557" width="1000" height="500" />
+<img src="https://64.media.tumblr.com/e76d2fa73619107d0be31b98ee4aa431/d40d51ecc6022ea6-8d/s540x810/bfe981aad0ac5d09128ce9892170b0023240a371.gif" width="1000" height="500" />
 
 # 👋 Hi there, I'm <a href="https://madebypaul.vercel.app" target="_blank">Paul Salaan</a> <img src="https://komarev.com/ghpvc/?username=paul-salaan&label=Profile%20views&color=blue&style=flat-square" alt="Profile views" />
 
