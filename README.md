@@ -15,7 +15,7 @@
 - Exploring more about the aspects and principles of UI/UX interface designing.
 
 ## 🗣️ Let's Chat
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pnhxvvl/?igsh=cHhraTVjdXBqM2o1#)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pnsmvwr/?igsh=cHhraTVjdXBqM2o1#)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/nienvirone/)
 
 ## 💻  Tech Stacks
