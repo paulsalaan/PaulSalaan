@@ -8,11 +8,9 @@
 ## 🦡 About Me
 - 📝 I love creating clean interfaces and building real-world projects with meaningful user experiences.
 - 🏫 Currently a 4th year BSIT student.
-- 🎮 Away from the keyboard, I like to sleep, playing games, listening to music and watching movies.
+- 🎮 Away from the keyboard, I like to sleep, playing online games, listening to music and watching anime and movies.
 
 ## 🔨 What I'm Working On
-- Learning how databases are structured and organized.
-- Learning about APIs and how to use them.  
 - Practicing web development using React and a little bit of backend.
 - Exploring more about the aspects and principles of UI/UX interface designing.
 
